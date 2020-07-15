@@ -11,6 +11,7 @@ public class program {
 		int plus = (x+3)+(y+3);
 		int minus = (x-3)+(y-3);
 		// 아 git 개어렵군
+		// 되는 거임?
 	}
 
 }
