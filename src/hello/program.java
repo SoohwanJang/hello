@@ -8,6 +8,7 @@ public class program {
 		int y = 5;
 
 		int total = x+y;
+		int plus = (x+3)+(y+3);
 	}
 
 }
