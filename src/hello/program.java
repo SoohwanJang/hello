@@ -10,6 +10,7 @@ public class program {
 		int total = x+y;
 		int plus = (x+3)+(y+3);
 		int minus = (x-3)+(y-3);
+		// 아 git 개어렵군
 	}
 
 }
