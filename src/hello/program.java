@@ -7,6 +7,7 @@ public class program {
 		int x = 3;
 		int y = 5;
 
+		int total = x+y;
 	}
 
 }
